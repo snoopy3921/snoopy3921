@@ -10,12 +10,11 @@ Every job is cherished and preserved, as this is where I keep the projects that 
 
 Let’s collaborate and innovate! 🌟
 
+
+
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snoopy3921&theme=zenburn" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=snoopy3921&show_icons=true&theme=slateorange" /></p>
 
+
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snoopy3921&show_icons=true&locale=en&layout=compact"/></p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/gia-huy-nguy%E1%BB%85n-ng%E1%BB%8Dc-a8baa7244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-</p>
-
