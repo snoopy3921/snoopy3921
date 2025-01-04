@@ -10,11 +10,15 @@ Every job is cherished and preserved, as this is where I keep the projects that 
 
 Let’s collaborate and innovate! 🌟
 
+<h3 align="left">Contact:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gia-huy-nguy%E1%BB%85n-ng%E1%BB%8Dc-a8baa7244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/snoopy582001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Snoopymeow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="new new" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/giahuy392001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+</p>
 
 
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snoopy3921&theme=zenburn" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=snoopy3921&show_icons=true&theme=slateorange" /></p>
-
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snoopy3921&show_icons=true&locale=en&layout=compact"/></p>
+<p align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snoopy3921&theme=zenburn" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=snoopy3921&show_icons=true&theme=slateorange" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snoopy3921&show_icons=true&locale=en&layout=compact"/></p>
