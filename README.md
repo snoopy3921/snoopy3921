@@ -20,5 +20,5 @@ Let’s collaborate and innovate! 🌟
 
 
 <p align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snoopy3921&theme=zenburn" /></p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=snoopy3921&show_icons=true&theme=slateorange" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=snoopy3921&theme=react" /></p>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snoopy3921&show_icons=true&locale=en&layout=compact"/></p>
