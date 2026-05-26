@@ -6,5 +6,6 @@ Things i do:
 + Microcontroller programming.
 + Electronics, hardware design.
 + SoC, embedded linux programming.
++ Boards bring up
++ SoC, MCU SDK.
 
-<p align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snoopy3921&theme=zenburn" /></p>
