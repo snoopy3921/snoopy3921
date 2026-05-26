@@ -1,11 +1,23 @@
-Hi, i'm an embedded engineer with strong passion for things related to Embedded Systems.
+# Hi there
 
-I have strong passionation about creating real-world embedded applications.
+I'm an **Embedded Engineer** passionate about embedded systems and building real-world applications, from hardware to software.
 
-Things i do:
-+ Microcontroller programming.
-+ Electronics, hardware design.
-+ SoC, embedded linux programming.
-+ Boards bring up
-+ SoC, MCU SDK.
+## What I Do
 
+- Microcontroller (MCU) programming
+- Electronics and hardware design
+- SoC and Embedded Linux development
+- Board bring-up and debugging
+- SoC/MCU SDK development and integration
+
+## Interests
+
+- Embedded Systems
+- RTOS
+- Embedded Linux
+- Device Drivers
+- Hardware Design
+- Edge AI
+- IoT
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snoopy3921&show_icons=true&theme=dracula&count_private=true)
