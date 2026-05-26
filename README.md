@@ -20,4 +20,4 @@ I'm an **Embedded Engineer** passionate about embedded systems and building real
 - Edge AI
 - IoT
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snoopy3921&show_icons=true&theme=dracula&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snoopy3921&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400)
